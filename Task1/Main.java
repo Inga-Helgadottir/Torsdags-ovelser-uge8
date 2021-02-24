@@ -7,6 +7,7 @@ public class Main{
 	}
 
 	public static void printString(String myString){
+		System.out.println();
 		System.out.println(myString);
 	}
 
@@ -17,4 +18,4 @@ public class Main{
 	public static void printSentence(String name, int age){
 		System.out.println("My name is " + name + ", I am " + age + " years old");
 	}
-}
+} 
