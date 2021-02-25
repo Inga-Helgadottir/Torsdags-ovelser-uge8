@@ -11,4 +11,8 @@ public class Student{
 		this.datamatikerTeam = tmpDatamatikerTeam;
 	}
 
+	public String getName(){
+		return name;
+	}
+
 }
